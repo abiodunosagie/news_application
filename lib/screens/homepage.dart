@@ -14,6 +14,8 @@ class HomePage extends StatelessWidget {
   final List tabItems = [
     'Tokyo',
     'Maldives',
+    'Lagos',
+    'Abuja',
     'New York',
     'Paris',
     'Bora Bora',

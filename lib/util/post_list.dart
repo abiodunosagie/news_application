@@ -1,5 +1,5 @@
 class MyPostList {
-  static List<Map<String, dynamic>> PostItems = [
+  static List<Map<String, dynamic>> postItems = [
     {
       'category': 'News: Politics',
       'title': 'Tinubu yearning for Biden\'s Congratulatory message',
@@ -46,6 +46,6 @@ class MyPostList {
     }
   ];
   static List<Map<String, dynamic>> getItems() {
-    return PostItems;
+    return postItems;
   }
 }

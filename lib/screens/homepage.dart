@@ -16,6 +16,7 @@ class HomePage extends StatelessWidget {
     'Maldives',
     'Lagos',
     'Abuja',
+    'Benin',
     'New York',
     'Paris',
     'Bora Bora',
